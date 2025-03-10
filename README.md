@@ -1,3 +1,6 @@
+# Build Step
+npm install --legacy-peer-deps
+
 # React Draft Wysiwyg
 
 A Wysiwyg editor built using ReactJS and DraftJS libraries.
